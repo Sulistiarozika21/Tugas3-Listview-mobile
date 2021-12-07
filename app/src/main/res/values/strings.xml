@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TugasUts</string>
+    <string name="biodata">Biodata</string>
+    <string name="jurusan">Prodi : Tekhnik Informatika</string>
+    <string name="hobby">Hobby : Mendengar Musik</string>
+    <string name="kelas">Kelas : TI C</string>
+    <string name="nama">Nama : Sulistia Rozika</string>
+</resources>
